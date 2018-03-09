@@ -1,5 +1,7 @@
-# H <br /> ello-World
-I love senpai <br />
+# Hello-World
+<p> 
+the first letter is bold and red
+  </p>
 Notice me senpai <br />
 That is my senpai <br />
 Everyone can't have senpai  <br />
